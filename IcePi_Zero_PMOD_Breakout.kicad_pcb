@@ -11880,6 +11880,18 @@
 			(justify top mirror)
 		)
 	)
+	(gr_text "Simplify pinout, tell the user to deal with it?"
+		(at 119.38 51.308 0)
+		(layer "Cmts.User")
+		(uuid "639c2215-d29b-40ff-94c9-f3370ca0a91b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(dimension
 		(type orthogonal)
 		(layer "Dwgs.User")
